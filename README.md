@@ -92,9 +92,5 @@ Built as a personal learning project to practice Python, file handling, and GUI 
 **Adda** — Student & aspiring Python developer.
 Learning by building real, useful tools.
 
-```
 
----
 
-Would you like me to make it sound a bit more *tech-professional* (like for recruiters), or keep this “personal learning project” vibe?
-```
