@@ -90,7 +90,7 @@ Built as a personal learning project to practice Python, file handling, and GUI 
 
 ## ✍️ Author
 
-**Adda** — Student & aspiring Python developer.
+**ItsAdda** — Student & aspiring Python developer.
 Learning by building real, useful tools.
 
 
