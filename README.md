@@ -85,6 +85,7 @@ Built as a personal learning project to practice Python, file handling, and GUI 
 ![App Screenshot](img.png)
 
 
+
 ---
 
 ## ✍️ Author
