@@ -1,8 +1,4 @@
-Here’s a clean, professional `README.md` you can drop straight into your project:
 
----
-
-````markdown
 # 🗂️ File Organizer (Work in Progress)
 
 A simple **Python GUI file organizer** built with **Tkinter**.  
