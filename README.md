@@ -26,7 +26,7 @@ Built as a personal learning project to practice Python, file handling, and GUI 
 1. Run the script:
    ```bash
    python main.py
-````
+
 
 2. Enter or paste the folder path into the text box.
 3. (Optional) Check **"Organize subfolders"** if you want recursive sorting.
